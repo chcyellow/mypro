@@ -1,5 +1,5 @@
 public class Demo{
 	public static void main(String args[]){
-		System.out.println("Hello chcyellow");
+		System.out.println("https://github.com/chcyellow");
 	}
 }
